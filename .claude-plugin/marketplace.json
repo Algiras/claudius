@@ -1,9 +1,11 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "claudius",
-  "description": "Personal collection of Claude Code skills and plugins by Algiras",
   "owner": {
     "name": "Algiras"
+  },
+  "metadata": {
+    "description": "Personal collection of Claude Code skills and plugins by Algiras",
+    "version": "1.0.0"
   },
   "plugins": [
     {
