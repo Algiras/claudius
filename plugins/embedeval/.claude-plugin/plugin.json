@@ -1,0 +1,11 @@
+{
+  "name": "embedeval",
+  "version": "1.0.0",
+  "description": "Binary pass/fail LLM evaluation CLI. Trace-centric, error-analysis-first approach to evaluating LLM outputs.",
+  "author": {
+    "name": "Algiras"
+  },
+  "license": "MIT",
+  "keywords": ["llm", "evaluation", "evals", "binary", "traces"],
+  "homepage": "https://github.com/Algiras/embedeval"
+}

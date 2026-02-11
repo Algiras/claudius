@@ -1,0 +1,11 @@
+{
+  "name": "rusty-pageindex",
+  "version": "1.0.0",
+  "description": "High-performance Rust PageIndex implementation. Transforms documents into hierarchical TOC trees for vectorless, reasoning-based RAG.",
+  "author": {
+    "name": "Algiras"
+  },
+  "license": "MIT",
+  "keywords": ["rag", "indexing", "pageindex", "rust", "documents"],
+  "homepage": "https://github.com/Algiras/rusty-pageindex"
+}

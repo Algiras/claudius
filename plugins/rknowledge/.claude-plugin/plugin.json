@@ -1,0 +1,11 @@
+{
+  "name": "rknowledge",
+  "version": "0.2.0",
+  "description": "Knowledge graph extraction CLI. Extract concepts and relationships from documents using LLMs, store in Neo4j, and explore with interactive visualization.",
+  "author": {
+    "name": "Algiras"
+  },
+  "license": "MIT",
+  "keywords": ["knowledge-graph", "neo4j", "llm", "extraction", "rust", "cli"],
+  "homepage": "https://github.com/Algiras/RKnowledge"
+}

@@ -1,0 +1,101 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claudius",
+  "description": "Personal collection of Claude Code skills and plugins by Algiras",
+  "owner": {
+    "name": "Algiras"
+  },
+  "plugins": [
+    {
+      "name": "memory-palace-red-queen",
+      "description": "Transform information into durable knowledge using the method of loci with adversarial recall testing (Red Queen Protocol)",
+      "version": "2.1.0",
+      "author": {
+        "name": "Algiras"
+      },
+      "source": "./plugins/memory-palace-red-queen",
+      "category": "productivity",
+      "keywords": ["memory", "learning", "spaced-repetition", "method-of-loci", "red-queen"],
+      "license": "MIT",
+      "strict": false
+    },
+    {
+      "name": "qmd",
+      "description": "Local-first search engine for markdown docs, knowledge bases, and meeting notes. BM25 + vector + LLM re-ranking.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Algiras"
+      },
+      "source": "./plugins/qmd",
+      "category": "development",
+      "keywords": ["search", "markdown", "knowledge-base", "semantic-search", "mcp"],
+      "license": "MIT",
+      "strict": false
+    },
+    {
+      "name": "skillz",
+      "description": "Self-extending MCP server - build and execute custom AI tools at runtime via Rust WASM",
+      "version": "1.0.0",
+      "author": {
+        "name": "Algiras"
+      },
+      "source": "./plugins/skillz",
+      "category": "development",
+      "keywords": ["mcp", "tools", "ai", "rust", "wasm", "self-extending"],
+      "license": "MIT",
+      "strict": false
+    },
+    {
+      "name": "rknowledge",
+      "description": "Knowledge graph extraction CLI. Extract concepts and relationships from documents using LLMs, store in Neo4j.",
+      "version": "0.2.0",
+      "author": {
+        "name": "Algiras"
+      },
+      "source": "./plugins/rknowledge",
+      "category": "development",
+      "keywords": ["knowledge-graph", "neo4j", "llm", "extraction", "rust"],
+      "license": "MIT",
+      "strict": false
+    },
+    {
+      "name": "clean-docs",
+      "description": "Documentation quality CLI - validate code snippets, detect broken links, auto-fix issues, CI/CD integration",
+      "version": "1.0.0",
+      "author": {
+        "name": "Algiras"
+      },
+      "source": "./plugins/clean-docs",
+      "category": "development",
+      "keywords": ["documentation", "linting", "links", "code-snippets", "ci-cd"],
+      "license": "MIT",
+      "strict": false
+    },
+    {
+      "name": "embedeval",
+      "description": "Binary pass/fail LLM evaluation CLI. Trace-centric, error-analysis-first approach.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Algiras"
+      },
+      "source": "./plugins/embedeval",
+      "category": "development",
+      "keywords": ["llm", "evaluation", "evals", "binary", "traces"],
+      "license": "MIT",
+      "strict": false
+    },
+    {
+      "name": "rusty-pageindex",
+      "description": "High-performance document indexer. Hierarchical TOC trees for vectorless, reasoning-based RAG.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Algiras"
+      },
+      "source": "./plugins/rusty-pageindex",
+      "category": "development",
+      "keywords": ["rag", "indexing", "pageindex", "rust", "documents"],
+      "license": "MIT",
+      "strict": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qmd",
+  "version": "1.0.0",
+  "description": "Local-first search engine for markdown docs, knowledge bases, and meeting notes. Combines BM25, vector search, and LLM re-ranking.",
+  "author": {
+    "name": "Algiras"
+  },
+  "license": "MIT",
+  "keywords": ["search", "markdown", "knowledge-base", "semantic-search", "cli"],
+  "homepage": "https://github.com/Algiras/qmd"
+}

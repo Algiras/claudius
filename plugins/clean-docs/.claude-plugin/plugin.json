@@ -1,0 +1,11 @@
+{
+  "name": "clean-docs",
+  "version": "1.0.0",
+  "description": "CLI tool for documentation quality - validate code snippets, detect broken links, auto-fix issues, and integrate with CI/CD.",
+  "author": {
+    "name": "Algiras"
+  },
+  "license": "MIT",
+  "keywords": ["documentation", "linting", "links", "code-snippets", "ci-cd"],
+  "homepage": "https://github.com/Algiras/clean-docs"
+}

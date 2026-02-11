@@ -1,0 +1,11 @@
+{
+  "name": "skillz",
+  "version": "1.0.0",
+  "description": "Self-extending MCP server that lets AI create and execute custom tools at runtime via Rust + WASM.",
+  "author": {
+    "name": "Algiras"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "tools", "ai", "rust", "wasm", "self-extending"],
+  "homepage": "https://algiras.github.io/skillz"
+}

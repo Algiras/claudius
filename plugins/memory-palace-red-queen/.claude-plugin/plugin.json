@@ -1,0 +1,10 @@
+{
+  "name": "memory-palace-red-queen",
+  "version": "2.1.0",
+  "description": "Transform information into durable knowledge using the method of loci with adversarial recall testing (Red Queen Protocol)",
+  "author": {
+    "name": "Algiras"
+  },
+  "license": "MIT",
+  "keywords": ["memory", "learning", "spaced-repetition", "method-of-loci", "red-queen"]
+}
