@@ -98,6 +98,19 @@
       "keywords": ["rag", "indexing", "pageindex", "rust", "documents"],
       "license": "MIT",
       "strict": false
+    },
+    {
+      "name": "engram",
+      "description": "Conversation memory system for Claude Code. Archive JSONL sessions, extract knowledge via LLMs, full-text search, TUI browser, and MCP server.",
+      "version": "0.3.0",
+      "author": {
+        "name": "Algiras"
+      },
+      "source": "github:Algiras/engram",
+      "category": "productivity",
+      "keywords": ["memory", "conversations", "knowledge-extraction", "analytics", "archive", "mcp", "search"],
+      "license": "MIT",
+      "strict": false
     }
   ]
 }
