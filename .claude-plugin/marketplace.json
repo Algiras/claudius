@@ -106,7 +106,7 @@
       "author": {
         "name": "Algiras"
       },
-      "source": "github:Algiras/engram",
+      "source": "./plugins/engram",
       "category": "productivity",
       "keywords": ["memory", "conversations", "knowledge-extraction", "analytics", "archive", "mcp", "search"],
       "license": "MIT",
